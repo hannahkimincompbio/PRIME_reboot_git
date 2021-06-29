@@ -39,26 +39,26 @@ Atchley	T	Volume	2.213
 Atchley	V	Volume	-0.544
 Atchley	W	Volume	0.672
 Atchley	Y	Volume	3.097
-Atchley	A	Iso-electric point	-0.146
-Atchley	C	Iso-electric point	-0.255
-Atchley	D	Iso-electric point	-3.242
-Atchley	E	Iso-electric point	-0.837
-Atchley	F	Iso-electric point	0.412
-Atchley	G	Iso-electric point	2.064
-Atchley	H	Iso-electric point	-0.078
-Atchley	I	Iso-electric point	0.816
-Atchley	K	Iso-electric point	1.648
-Atchley	L	Iso-electric point	-0.912
-Atchley	M	Iso-electric point	1.212
-Atchley	N	Iso-electric point	0.933
-Atchley	P	Iso-electric point	-1.392
-Atchley	Q	Iso-electric point	-1.853
-Atchley	R	Iso-electric point	2.897
-Atchley	S	Iso-electric point	-2.647
-Atchley	T	Iso-electric point	1.313
-Atchley	V	Iso-electric point	-1.262
-Atchley	W	Iso-electric point	-0.184
-Atchley	Y	Iso-electric point	1.512
+Atchley	A	Iso-electric Point	-0.146
+Atchley	C	Iso-electric Point	-0.255
+Atchley	D	Iso-electric Point	-3.242
+Atchley	E	Iso-electric Point	-0.837
+Atchley	F	Iso-electric Point	0.412
+Atchley	G	Iso-electric Point	2.064
+Atchley	H	Iso-electric Point	-0.078
+Atchley	I	Iso-electric Point	0.816
+Atchley	K	Iso-electric Point	1.648
+Atchley	L	Iso-electric Point	-0.912
+Atchley	M	Iso-electric Point	1.212
+Atchley	N	Iso-electric Point	0.933
+Atchley	P	Iso-electric Point	-1.392
+Atchley	Q	Iso-electric Point	-1.853
+Atchley	R	Iso-electric Point	2.897
+Atchley	S	Iso-electric Point	-2.647
+Atchley	T	Iso-electric Point	1.313
+Atchley	V	Iso-electric Point	-1.262
+Atchley	W	Iso-electric Point	-0.184
+Atchley	Y	Iso-electric Point	1.512
 LCAP	A	Polarity	-0.9956290326072353
 LCAP	C	Polarity	-1.107220007612595
 LCAP	D	Polarity	-0.9956292005349376
@@ -99,23 +99,23 @@ LCAP	T	Volume	-0.535022037570798
 LCAP	V	Volume	2.142318464323941
 LCAP	W	Volume	1.071384899476407
 LCAP	Y	Volume	-1.745647766340383
-LCAP	A	Iso-electric point	-0.3057542421356372
-LCAP	C	Iso-electric point	-0.02273844767848476
-LCAP	D	Iso-electric point	-9.737035422433548e-05
-LCAP	E	Iso-electric point	-0.1585867248775605
-LCAP	F	Iso-electric point	-0.03405832632980638
-LCAP	G	Iso-electric point	-0.192548376206011
-LCAP	H	Iso-electric point	0.1583919144982974
-LCAP	I	Iso-electric point	0.07914812431496633
-LCAP	K	Iso-electric point	-0.01141750903277056
-LCAP	L	Iso-electric point	-0.2038687480243035
-LCAP	M	Iso-electric point	0.8885757410301605
-LCAP	N	Iso-electric point	-0.2095283729063603
-LCAP	P	Iso-electric point	-0.3453753360155064
-LCAP	Q	Iso-electric point	2.105545575730344
-LCAP	R	Iso-electric point	-1.839706056109631
-LCAP	S	Iso-electric point	-1.584990785596673
-LCAP	T	Iso-electric point	-0.5378282523391487
-LCAP	V	Iso-electric point	-0.07368049231084244
-LCAP	W	Iso-electric point	2.682902758933077
-LCAP	Y	Iso-electric point	-0.02839872447370546
+LCAP	A	Iso-electric Point	-0.3057542421356372
+LCAP	C	Iso-electric Point	-0.02273844767848476
+LCAP	D	Iso-electric Point	-9.737035422433548e-05
+LCAP	E	Iso-electric Point	-0.1585867248775605
+LCAP	F	Iso-electric Point	-0.03405832632980638
+LCAP	G	Iso-electric Point	-0.192548376206011
+LCAP	H	Iso-electric Point	0.1583919144982974
+LCAP	I	Iso-electric Point	0.07914812431496633
+LCAP	K	Iso-electric Point	-0.01141750903277056
+LCAP	L	Iso-electric Point	-0.2038687480243035
+LCAP	M	Iso-electric Point	0.8885757410301605
+LCAP	N	Iso-electric Point	-0.2095283729063603
+LCAP	P	Iso-electric Point	-0.3453753360155064
+LCAP	Q	Iso-electric Point	2.105545575730344
+LCAP	R	Iso-electric Point	-1.839706056109631
+LCAP	S	Iso-electric Point	-1.584990785596673
+LCAP	T	Iso-electric Point	-0.5378282523391487
+LCAP	V	Iso-electric Point	-0.07368049231084244
+LCAP	W	Iso-electric Point	2.682902758933077
+LCAP	Y	Iso-electric Point	-0.02839872447370546
